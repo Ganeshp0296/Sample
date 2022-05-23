@@ -16,6 +16,7 @@ public class Emp_wage_UC1 {
 			 System.out.println("Employee is Present");
 		 else
 			 System.out.println("Employee is Absent");
+			 System.out.println("Its is testing purpose");
 		 
 		
 	}
